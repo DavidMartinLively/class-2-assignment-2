@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+    font-size: large;
+}
+h1,h2{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 0em;
+}
+p{
+    font-weight: 100;
+    font-size: medium;
+    text-transform: none;
+
+}
